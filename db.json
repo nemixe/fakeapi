@@ -3,43 +3,43 @@
         {
             "id": 1,
             "label": "Spaghetti",
-            "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quam diam, eleifend a vestibulum non, vestibulum vel enim. Nullam a semper ante. Duis eget volutpat justo, vel sollicitudin justo. Nam pulvinar quis ex lacinia laoreet. Pellentesque maximus eleifend lectus, eget pretium velit accumsan vel. Phasellus scelerisque mauris accumsan nunc sagittis, non lacinia justo tincidunt. Donec ultrices, justo ut feugiat aliquet, metus purus consequat orci, eget vestibulum ipsum metus et tortor. Etiam ornare sem at tempus imperdiet. Fusce placerat lobortis mauris eu pretium. Sed rhoncus sapien blandit enim porta ullamcorper. Sed vitae mi ornare, ornare lacus in, mollis turpis. Duis sit amet elit elementum, lacinia leo nec, tristique dui. Proin interdum nisi non placerat ultricies."
         },
         {
             "id": 2,
             "label": "Vegetable Mix",
-            "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
             "description": "Morbi auctor leo sed neque pretium vehicula. Curabitur consectetur ornare lobortis. Donec eget aliquet nisl. Curabitur ac diam dui. Fusce sed ex odio. Vestibulum consectetur diam vel erat imperdiet, at suscipit lectus venenatis. Morbi pulvinar arcu ipsum, at semper metus dignissim vel. Maecenas a est purus. Aenean ornare maximus leo sed porta. In dapibus risus commodo ipsum faucibus, vitae ultricies nibh laoreet. Cras quis fermentum arcu. Etiam vulputate lobortis volutpat. Aliquam ultrices semper leo, egestas sodales ex laoreet ultrices. Donec mollis iaculis condimentum."
         },
         {
             "id": 3,
             "label": "Salad",
-            "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
             "description": "Morbi eget dui in leo vestibulum porttitor. Aenean id euismod nisl. Curabitur aliquet leo neque, vel vehicula sem volutpat malesuada. Pellentesque maximus placerat risus id ornare. Nam posuere erat in metus faucibus porttitor. Ut eget urna vel felis sagittis iaculis. Praesent eu risus id ex auctor egestas et sed purus. Pellentesque venenatis malesuada bibendum. Sed facilisis nulla non sapien imperdiet semper. Phasellus accumsan, mauris at porttitor auctor, nibh turpis consequat est, eget varius mi ligula ullamcorper eros. In arcu diam, sollicitudin sed placerat vel, luctus vel erat. Pellentesque felis sapien, scelerisque ut sapien eget, eleifend vulputate lorem. Vivamus efficitur justo ut erat mollis, sed placerat dolor vestibulum. Nam hendrerit suscipit est, nec pulvinar nulla."
         },
         {
             "id": 4,
             "label": "Coffee",
-            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
             "description": "Aliquam a magna turpis. Maecenas eu tempor purus, ac ullamcorper lectus. Sed quis lacus vitae metus suscipit aliquet eu ut felis. Duis rhoncus, tortor vitae vestibulum vestibulum, orci nulla congue lorem, ac luctus neque ligula nec ligula. Duis ullamcorper libero ut lectus varius varius. Pellentesque quis lectus sed enim ultricies venenatis. Aenean non dignissim orci. Phasellus ullamcorper lectus vitae orci ornare scelerisque. Nam nunc nulla, ultricies eget ante non, mattis ullamcorper ligula. Phasellus sed feugiat nisi. In dignissim tellus ex, id dignissim mauris tincidunt a. Proin volutpat vestibulum justo condimentum venenatis. Nullam varius vulputate facilisis. Nulla at pulvinar mi, sit amet semper nunc. Aliquam et consequat massa."
         },
         {
             "id": 5,
             "label": "Pancake",
-            "image": "https://images.pexels.com/photos/357573/pexels-photo-357573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "image": "https://images.pexels.com/photos/357573/pexels-photo-357573.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
             "description": "Vestibulum bibendum posuere aliquam. Nunc sed porta sem, at fringilla turpis. Phasellus enim lectus, congue quis imperdiet id, mollis tempor ipsum. Nam volutpat at ligula eu tempus. Praesent vitae velit dignissim, tincidunt lacus nec, feugiat mauris. Ut non pretium turpis. Integer tristique risus turpis, sit amet fermentum nisl venenatis in. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
         },
         {
             "id": 6,
             "label": "Dessert",
-            "image": "https://images.pexels.com/photos/3872263/pexels-photo-3872263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "image": "https://images.pexels.com/photos/3872263/pexels-photo-3872263.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tellus lacus, tincidunt vel pretium at, iaculis eu odio. Vivamus vel accumsan diam, nec tristique libero. Integer et pharetra felis, ut consequat felis. Suspendisse nisi neque, scelerisque ut varius ut, fringilla at massa. Phasellus pellentesque at nisl vitae egestas. Mauris id augue velit. Integer ornare et elit eget laoreet. Suspendisse porttitor commodo eros nec placerat. Nunc venenatis euismod quam quis molestie. Sed quis elementum turpis. Suspendisse non eros tristique, tincidunt est tincidunt, sodales orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras placerat, leo eu facilisis finibus, orci dolor lacinia libero, sit amet bibendum purus enim non ex. Quisque malesuada eget tellus vel sagittis."
         },
         {
             "id": 7,
             "label": "Bacon",
-            "image": "https://images.pexels.com/photos/434283/pexels-photo-434283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "image": "https://images.pexels.com/photos/434283/pexels-photo-434283.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
             "description": "Integer tincidunt ullamcorper porta. Nunc hendrerit elementum lectus, non placerat leo ultricies eu. Mauris tristique sem non consectetur sodales. Vivamus a justo convallis, porttitor magna quis, dignissim est. Proin ut velit lectus. Curabitur consequat viverra nulla, tincidunt ultrices velit hendrerit ut. Sed consequat urna at quam maximus, sit amet rhoncus eros congue. Cras ac lacus nec metus ultricies luctus. Donec non mi massa. Aliquam vel velit at lacus dictum hendrerit ac sit amet diam. Sed a lectus sit amet lorem porttitor vehicula."
         },
         {
