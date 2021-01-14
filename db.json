@@ -8,37 +8,37 @@
         {
             "id": 2,
             "label": "Vegetable Mix",
-            "image": "./img/pexels-photo-1640777.jpg"
+            "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
         },
         {
             "id": 3,
             "label": "Salad",
-            "image": "./img/pexels-photo-2097090.jpg"
+            "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
         },
         {
             "id": 4,
             "label": "Coffee",
-            "image": "./img/pexels-photo-302899.jpg"
+            "image": "https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
         },
         {
             "id": 5,
             "label": "Pancake",
-            "image": "./img/pexels-photo-357573.jpg"
+            "image": "https://images.pexels.com/photos/357573/pexels-photo-357573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
         },
         {
             "id": 6,
             "label": "Dessert",
-            "image": "./img/pexels-photo-3872263.jpg"
+            "image": "https://images.pexels.com/photos/3872263/pexels-photo-3872263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
         },
         {
             "id": 7,
             "label": "Bacon",
-            "image": "./img/pexels-photo-434283.jpg"
+            "image": "https://images.pexels.com/photos/434283/pexels-photo-434283.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
         },
         {
             "id": 8,
-            "label": "Egg Rice",
-            "image": "./img/pexels-photo-704569.jpg"
+            "label": "Egg & Bread",
+            "image": "https://images.pexels.com/photos/704569/pexels-photo-704569.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
         }
     ],
     "profile": {
