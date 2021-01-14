@@ -7,7 +7,7 @@
     { "label": "Pancake", "image": "./img/pexels-photo-357573.jpg" },
     { "label": "Dessert", "image": "./img/pexels-photo-3872263.jpg" },
     { "label": "Bacon", "image": "./img/pexels-photo-434283.jpg" },
-    { "label": "Egg Rice", "image": "./img/pexels-photo-704569.jpg" },
+    { "label": "Egg Rice", "image": "./img/pexels-photo-704569.jpg" }
   ],
   "profile": {
     "name": "nemixe"
