@@ -58,18 +58,6 @@
             "title": "Spaghetti",
             "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=250",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce quam diam, eleifend a vestibulum non, vestibulum vel enim. Nullam a semper ante. Duis eget volutpat justo, vel sollicitudin justo. Nam pulvinar quis ex lacinia laoreet. Pellentesque maximus eleifend lectus, eget pretium velit accumsan vel. Phasellus scelerisque mauris accumsan nunc sagittis, non lacinia justo tincidunt. Donec ultrices, justo ut feugiat aliquet, metus purus consequat orci, eget vestibulum ipsum metus et tortor. Etiam ornare sem at tempus imperdiet. Fusce placerat lobortis mauris eu pretium. Sed rhoncus sapien blandit enim porta ullamcorper. Sed vitae mi ornare, ornare lacus in, mollis turpis. Duis sit amet elit elementum, lacinia leo nec, tristique dui. Proin interdum nisi non placerat ultricies."
-        },
-        {
-            "id": 2,
-            "title": "Vegetable Mix",
-            "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=250",
-            "description": "Morbi auctor leo sed neque pretium vehicula. Curabitur consectetur ornare lobortis. Donec eget aliquet nisl. Curabitur ac diam dui. Fusce sed ex odio. Vestibulum consectetur diam vel erat imperdiet, at suscipit lectus venenatis. Morbi pulvinar arcu ipsum, at semper metus dignissim vel. Maecenas a est purus. Aenean ornare maximus leo sed porta. In dapibus risus commodo ipsum faucibus, vitae ultricies nibh laoreet. Cras quis fermentum arcu. Etiam vulputate lobortis volutpat. Aliquam ultrices semper leo, egestas sodales ex laoreet ultrices. Donec mollis iaculis condimentum."
-        },
-        {
-            "id": 3,
-            "title": "Salad",
-            "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=250",
-            "description": "Morbi eget dui in leo vestibulum porttitor. Aenean id euismod nisl. Curabitur aliquet leo neque, vel vehicula sem volutpat malesuada. Pellentesque maximus placerat risus id ornare. Nam posuere erat in metus faucibus porttitor. Ut eget urna vel felis sagittis iaculis. Praesent eu risus id ex auctor egestas et sed purus. Pellentesque venenatis malesuada bibendum. Sed facilisis nulla non sapien imperdiet semper. Phasellus accumsan, mauris at porttitor auctor, nibh turpis consequat est, eget varius mi ligula ullamcorper eros. In arcu diam, sollicitudin sed placerat vel, luctus vel erat. Pellentesque felis sapien, scelerisque ut sapien eget, eleifend vulputate lorem. Vivamus efficitur justo ut erat mollis, sed placerat dolor vestibulum. Nam hendrerit suscipit est, nec pulvinar nulla."
         }
     ]
   }
