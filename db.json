@@ -51,5 +51,13 @@
     ],
     "profile": {
       "name": "nemixe"
-    }
+    },
+    "nft": [
+        {
+            "id": 1,
+            "title": "Fried Rice",
+            "image": "https://images.pexels.com/photos/1410236/pexels-photo-1410236.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=250",
+            "description": "Suspendisse elementum ipsum in porta faucibus. Aliquam vel odio tempus, ullamcorper eros pellentesque, cursus tellus. Nullam tempus consequat cursus. Proin commodo odio sit amet lacus dictum, a vehicula nulla tristique. Cras pulvinar tortor id nulla pretium mollis. Nam tempus, leo facilisis varius laoreet, urna ante sollicitudin dui, ut imperdiet mi justo fermentum felis. Mauris tincidunt dui sapien, interdum hendrerit magna condimentum id. Aenean blandit ornare lorem. Aliquam vel odio leo. Cras rutrum sit amet orci vel viverra. Nulla rutrum in libero faucibus lacinia. Sed pulvinar sem massa, non aliquam felis finibus quis."
+        }
+    ]
   }
